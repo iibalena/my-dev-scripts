@@ -45,3 +45,11 @@ export DEPLOY_PATH=/caminho/para/app
 export DEPLOY_SERVICE=meu-servico.service
 
 ./deploy/deploy-template.sh
+```
+
+---
+
+### 👤 Autor
+ Ivonei Balena
+
+ [`Linkedin`](https://www.linkedin.com/in/ivonei-balena-a9a26465/)
