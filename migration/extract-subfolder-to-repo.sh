@@ -19,6 +19,6 @@ git filter-repo --subdirectory-filter "$FOLDER_NAME"
 echo "🔗 Adicionando remoto $NEW_REPO_URL..."
 git remote remove origin
 git remote add origin "$NEW_REPO_URL"
-git push -u origin main
+git push -u origin master
 
 echo "✅ Repositório $NEW_REPO_NAME criado com sucesso."
